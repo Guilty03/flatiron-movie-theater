@@ -1,0 +1,57 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+        "description": "Two imprisoned men bond over a number of years.",
+        "runtime": 142
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+        "description": "The aging patriarch of an organized crime dynasty transfers control.",
+        "runtime": 175
+      },
+    
+      {
+        "id": 5,
+        "title": "Forrest Gump",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+        "description": "The story of a slow-witted but kind-hearted man.",
+        "runtime": 142
+      },
+     
+      {
+        "id": 7,
+        "title": "Fight Club",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+        "description": "An insomniac office worker forms an underground fight club.",
+        "runtime": 139
+      },
+      {
+        "id": 8,
+        "title": "The Matrix",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+        "description": "A hacker discovers the true nature of reality.",
+        "runtime": 136
+      },
+      {
+        "id": 9,
+        "title": "Interstellar",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+        "description": "A group of astronauts travel through a wormhole.",
+        "runtime": 169
+      },
+      {
+        "id": 10,
+        "title": "The Lion King",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+        "description": "A young lion prince flees after the death of his father.",
+        "runtime": 88
+      }
+     
+    ]
+  }
+  
